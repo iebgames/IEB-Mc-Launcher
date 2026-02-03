@@ -1,0 +1,7 @@
+customtkinter
+minecraft-launcher-lib
+requests
+Pillow
+tkvideo
+darkdetect
+pypresence

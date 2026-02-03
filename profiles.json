@@ -1,0 +1,11 @@
+{
+    "profiles": [
+        {
+            "id": "f3b8ae04-ff09-4731-a4b0-dfca21f1c137",
+            "name": "Player",
+            "uuid": "80811ade-4f84-4a02-9a35-e70cd1997d71",
+            "type": "offline"
+        }
+    ],
+    "current_profile": "f3b8ae04-ff09-4731-a4b0-dfca21f1c137"
+}
